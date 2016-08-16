@@ -3,6 +3,6 @@ package be.evertheylen
 import cakesolutions.kafka.KafkaProducer
 import cakesolutions.kafka.KafkaProducer.Conf
 
-object SimpleApp extends App {
+object SampleApplication extends App {
   println("Hello world")
 }
